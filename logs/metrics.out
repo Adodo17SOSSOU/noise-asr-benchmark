@@ -1,0 +1,10 @@
+Starting metrics at mer. 23 juil. 2025 01:34:53 CEST
+Loaded 50 predictions from models/outputs/whisper_clean_predictions.json
+Saved WER: 0.121, CER: 0.051 to models/outputs/metrics_whisper_clean.json
+Loaded 50 predictions from models/outputs/whisper_noisy_predictions.json
+Saved WER: 0.253, CER: 0.143 to models/outputs/metrics_whisper_noisy.json
+Loaded 50 predictions from models/outputs/wav2vec_predictions_clean.json
+Saved WER: 0.259, CER: 0.079 to models/outputs/metrics_wav2vec_clean.json
+Loaded 50 predictions from models/outputs/wav2vec_predictions_noisy.json
+Saved WER: 0.414, CER: 0.198 to models/outputs/metrics_wav2vec_noisy.json
+Done computing metrics at mer. 23 juil. 2025 01:34:54 CEST

@@ -1,0 +1,5 @@
+Model,Data,WER,CER
+wav2vec,clean,0.259,0.079
+wav2vec,noisy,0.414,0.198
+whisper,clean,0.121,0.051
+whisper,noisy,0.253,0.143
